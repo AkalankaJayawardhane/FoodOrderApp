@@ -1,4 +1,4 @@
-package com.example.foodapp.activities;
+package com.example.foodorderapp.activities;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -10,10 +10,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.example.foodapp.R;
-import com.example.foodapp.fragments.CartFragment;
-import com.example.foodapp.fragments.HomeFragment;
-import com.example.foodapp.fragments.ProfileFragment;
+import com.example.foodorderapp.R;
+import com.example.foodorderapp.fragments.CartFragment;
+import com.example.foodorderapp.fragments.HomeFragment;
+import com.example.foodorderapp.fragments.ProfileFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 /**
